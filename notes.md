@@ -8,6 +8,7 @@ This file is to keep any notes and links about the board.
 
 ## Specifications
 
+### Memory
 Although the SB Components marketing video and product pages confusingly list the board as having 64 MB / 64 Mb (note the mixed up capitalisation) of flash, this is *not 64 megabytes*.
 
 - The [schematic](https://cdn.shopify.com/s/files/1/1217/2104/files/StackyPi-Schematic-File.pdf?v=1649228172) shows a 25Q128FV flash chip (128 megabits -> 16 megabytes).
@@ -15,10 +16,16 @@ Although the SB Components marketing video and product pages confusingly list th
 
 Conclusion - *StackyPi has 8 megabytes (8 MB) of flash*.
 
+### Firmware
+
+Boards have apparently been shipped with differing builds of MicroPython (1.15 and 1.17 are known)
+
 ## Reviews and write-ups
 
 - [Review on Tom's Hardware](https://www.tomshardware.com/reviews/sb-components-stackypi)
 - [YouTube Review](https://www.youtube.com/watch?v=6nFzbBchgRI)
+
+## Useful MicroPython drivers
 
 ## Supported HATs
 
