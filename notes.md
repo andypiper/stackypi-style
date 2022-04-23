@@ -23,7 +23,7 @@ Although the SB Components marketing video and product pages confusingly list th
 
 Boards have apparently been shipped with differing builds of MicroPython (1.15 and 1.17 are known)
 
-There is currently no specific MicroPython board definition available.
+There is currently no specific MicroPython board definition available. Matt Trentini [notes](https://twitter.com/matt_trentini/status/1517484553530580992) that it should be similar to [this alternative definition](https://github.com/micropython/micropython/pull/8505). Probably wants an SD setup like a Pyboard, as well?
 
 ## Reviews and write-ups
 
