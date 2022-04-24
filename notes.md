@@ -9,7 +9,7 @@ This file is to keep any notes and links about the board.
 
 ## Specifications
 
-### Memory
+### Memory / storage
 
 Although the SB Components marketing video and product pages confusingly list the board as having 64 MB / 64 Mb (note the mixed up capitalisation) of flash, this is *not 64 megabytes*.
 
