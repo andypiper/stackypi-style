@@ -5,6 +5,7 @@ This file is to keep any notes and links about the board.
 - [Product page](https://shop.sb-components.co.uk/products/stackypi?_pos=1&_sid=7ecd982d7&_ss=r)
 - [Kickstarter page](https://www.kickstarter.com/projects/1415622428/pico-zero-rp2040-pico-based-board-on-pi-zero-form-factor)
 - [GitHub repo](https://github.com/sbcshop/StackyPi)
+- [SB Components wiki](https://learn.sb-components.co.uk/StackyPi)
 
 ## Specifications
 
@@ -15,7 +16,7 @@ Although the SB Components marketing video and product pages confusingly list th
 - The [schematic](https://cdn.shopify.com/s/files/1/1217/2104/files/StackyPi-Schematic-File.pdf?v=1649228172) shows a 25Q128FV flash chip (128 megabits -> 16 megabytes).
 - The board [in reality](images/flash.jpeg) has a [Winbond 25Q64JV chip](https://www.winbond.com/hq/product/code-storage-flash-memory/serial-nor-flash/?__locale=en&partNo=W25Q64JV) (64 megabits -> 8 megabytes).
 
-- a commenter on YouTube points out that this is known to SB Components!
+- a commenter on YouTube points out that this is known to SB Components! The wiki page does acknowledge it is bits, not bytes.
 
 **Conclusion** - *StackyPi has 8 megabytes (8 MB) of flash*.
 
@@ -47,4 +48,8 @@ If you have tried a Pi HAT or add-on, let us know!
 Due to the placement of the micro-USB port, which is slightly out of alignment with the Raspberry Pi Zero equivalent layout, Pi cases cannot easily be used without modification.
 
 3D printed cases are possible.
+
+## Similar products
+
+- [RedRobotics Pico2Pi](https://www.tindie.com/products/redrobotics/pico-2-pi-adapter-board/)
 

@@ -1,1 +1,3 @@
-A place to put clearly commented example code
+# Examples
+
+A place to put (clearly commented) example code
