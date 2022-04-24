@@ -6,9 +6,11 @@ It also contains example code for driving various components of the board.
 
 A goal would be to build a MicroPython definition that makes the board easy to use, as well as to collect information about usable add-ons.
 
+![stackypi-style](https://socialify.git.ci/andypiper/stackypi-style/image?description=1&font=KoHo&forks=1&issues=1&logo=https%3A%2F%2Fgithub.com%2Fandypiper%2Fstackypi-style%2Fblob%2Fmain%2Fimages%2Flogo.png%3Fraw%3Dtrue&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+
 ## Background
 
-The StackyPi getting started and marketing information is confusing and inconsistent, so this repository was created to pull together known information.
+The StackyPi getting started and marketing information is confusing and inconsistent, so this repository was created to pull together known information for folks who are using the boards.
 
 ## Requirements
 
