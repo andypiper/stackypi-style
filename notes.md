@@ -33,7 +33,7 @@ There is currently no specific MicroPython board definition available. Matt Tren
 
 ## Useful MicroPython drivers
 
-- sdcard
+- sdcard (needs FAT)
 - button debouncing
 - pin mapping?
 
@@ -41,9 +41,11 @@ There is currently no specific MicroPython board definition available. Matt Tren
 
 If you have tried a Pi HAT or add-on, let us know!
 
+Useful resource is [pinout.xyz](https://pinout.xyz) although not all boards are listed.
+
 - Pi Cube HAT (SB Components): the StackyPi repo has a sample for this.
-- ScrollpHAT HD (Pimoroni): not working, needs 5V power
-- TroPi (PiBorg): not working, needs 5V power
+- ScrollpHAT HD (Pimoroni): 
+- TroPi (PiBorg): 
 
 ## Compatible cases
 
