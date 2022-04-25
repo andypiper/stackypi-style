@@ -42,6 +42,8 @@ There is currently no specific MicroPython board definition available. Matt Tren
 If you have tried a Pi HAT or add-on, let us know!
 
 - Pi Cube HAT (SB Components): the StackyPi repo has a sample for this.
+- ScrollpHAT HD (Pimoroni): not working, needs 5V power
+- TroPi (PiBorg): not working, needs 5V power
 
 ## Compatible cases
 
